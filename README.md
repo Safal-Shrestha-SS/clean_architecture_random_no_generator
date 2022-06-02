@@ -1,6 +1,7 @@
-# arch_test
+# Random number
 
-A new Flutter project.
+This is a simple app which gives random number to the user. This app was made in order to understand clean architecture model better and it doesn't have any extra functionality. Feel free to browse if you want to check out clean architecture model . 
+
 
 ## Getting Started
 
